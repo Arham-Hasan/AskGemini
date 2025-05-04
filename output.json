@@ -1,0 +1,104 @@
+[
+  {
+    "No.": "1",
+    "Name": "Elon Musk",
+    "Net worth (USD)": "$342 billion",
+    "Age": "53",
+    "Nationality": [
+      "South Africa",
+      "Canada",
+      "United States"
+    ],
+    "Primary source(s) of wealth": "Tesla, SpaceX"
+  },
+  {
+    "No.": "2",
+    "Name": "Mark Zuckerberg",
+    "Net worth (USD)": "$216 billion",
+    "Age": "40",
+    "Nationality": [
+      "United States"
+    ],
+    "Primary source(s) of wealth": "Meta Platforms"
+  },
+  {
+    "No.": "3",
+    "Name": "Jeff Bezos",
+    "Net worth (USD)": "$215 billion",
+    "Age": "61",
+    "Nationality": [
+      "United States"
+    ],
+    "Primary source(s) of wealth": "Amazon"
+  },
+  {
+    "No.": "4",
+    "Name": "Larry Ellison",
+    "Net worth (USD)": "$192 billion",
+    "Age": "80",
+    "Nationality": [
+      "United States"
+    ],
+    "Primary source(s) of wealth": "Oracle Corporation"
+  },
+  {
+    "No.": "5",
+    "Name": "Bernard Arnault & family",
+    "Net worth (USD)": "$178 billion",
+    "Age": "76",
+    "Nationality": [
+      "France"
+    ],
+    "Primary source(s) of wealth": "LVMH"
+  },
+  {
+    "No.": "6",
+    "Name": "Warren Buffett",
+    "Net worth (USD)": "$154 billion",
+    "Age": "94",
+    "Nationality": [
+      "United States"
+    ],
+    "Primary source(s) of wealth": "Berkshire Hathaway"
+  },
+  {
+    "No.": "7",
+    "Name": "Larry Page",
+    "Net worth (USD)": "$144 billion",
+    "Age": "52",
+    "Nationality": [
+      "United States"
+    ],
+    "Primary source(s) of wealth": "Google"
+  },
+  {
+    "No.": "8",
+    "Name": "Sergey Brin",
+    "Net worth (USD)": "$138 billion",
+    "Age": "51",
+    "Nationality": [
+      "United States"
+    ],
+    "Primary source(s) of wealth": "Google"
+  },
+  {
+    "No.": "9",
+    "Name": "Amancio Ortega",
+    "Net worth (USD)": "$124 billion",
+    "Age": "89",
+    "Nationality": [
+      "Spain"
+    ],
+    "Primary source(s) of wealth": "Inditex, Zara"
+  },
+  {
+    "No.": "10",
+    "Name": "Steve Ballmer",
+    "Net worth (USD)": "$118 billion",
+    "Age": "69",
+    "Nationality": [
+      "United States"
+    ],
+    "Primary source(s) of wealth": "Microsoft"
+  }
+]
